@@ -1,3 +1,3 @@
 # Rust-Programming
 ### Codes and Data 
-folder contains complete Sources of Rust Programming Course
+folder contains complete source of Rust Programming Course
